@@ -14,7 +14,9 @@
       "description": "Synchronize products between two Akeneo PIM instances. Also support some attribute type creation and attribute option creation.",
       "distPath": "pim-to-pim-product-sync/dist/pim-to-pim-sync-v0.0.50-20260222-1304.js",
       "originalFileName": "pim-to-pim-sync.js",
-      "customVariables": "{\"destination_pim_url\": \"https://dan.support.cloud.akeneo.com\"}"
+      "customVariables": {
+        "destination_pim_url": "https://target-pim.cloud.akeneo.com"
+      }
     },
     {
       "slug": "simple-to-model-variant",
