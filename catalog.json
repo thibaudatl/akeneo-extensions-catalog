@@ -11,9 +11,24 @@
         "en_US": "PIM to PIM Product Sync",
         "fr_FR": "Synchronisation produit PIM vers PIM"
       },
-      "description": "Synchronize products between two Akeneo PIM instances.",
+      "description": "Synchronize products between two Akeneo PIM instances. Also support some attribute type creation and attribute option creation.",
       "distPath": "pim-to-pim-product-sync/dist/pim-to-pim-sync-v0.0.50-20260222-1304.js",
       "originalFileName": "pim-to-pim-sync.js"
+    },
+    {
+      "slug": "simple-to-model-variant",
+      "name": "simple-to-model-variant",
+      "type": "sdk_script",
+      "position": "pim.product-grid.action-bar",
+      "version": "0.0.50",
+      "defaultLabel": "Variant Converter",
+      "labels": {
+        "en_US": "Variant Converter",
+        "fr_FR": "Variant Converter"
+      },
+      "description": "Create model/variant products from simple products",
+      "distPath": "simple-to-variant-conversion/dist/variant-converter-v001.js",
+      "originalFileName": "variant-converter-v001.js"
     }
   ]
 }
