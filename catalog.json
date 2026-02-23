@@ -20,7 +20,7 @@
       "name": "simple-to-model-variant",
       "type": "sdk_script",
       "position": "pim.product-grid.action-bar",
-      "version": "0.0.50",
+      "version": "0.0.1",
       "defaultLabel": "Variant Converter",
       "labels": {
         "en_US": "Variant Converter",
