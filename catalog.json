@@ -20,7 +20,7 @@
     },
     {
       "slug": "simple-to-model-variant",
-      "name": "simple-to-model-variant",
+      "name": "simple_to_model_variant",
       "type": "sdk_script",
       "position": "pim.product-grid.action-bar",
       "version": "0.0.1",
