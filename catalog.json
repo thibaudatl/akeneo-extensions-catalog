@@ -5,14 +5,14 @@
       "name": "pim_to_pim_product_sync",
       "type": "sdk_script",
       "position": "pim.product-grid.action-bar",
-      "version": "0.0.50",
+      "version": "0.0.74",
       "defaultLabel": "PIM to PIM Product Sync",
       "labels": {
         "en_US": "PIM to PIM Product Sync",
         "fr_FR": "Synchronisation produit PIM vers PIM"
       },
       "description": "Synchronize products between two Akeneo PIM instances. Also support some attribute type creation and attribute option creation.",
-      "distPath": "pim-to-pim-product-sync/dist/pim-to-pim-sync-v0.0.50-20260222-1304.js",
+      "distPath": "pim-to-pim-product-sync/dist/pim-to-pim-sync-v0.0.74-20260222-1951.js",
       "originalFileName": "pim-to-pim-sync.js",
       "customVariables": {
         "destination_pim_url": "https://target-pim.cloud.akeneo.com"
