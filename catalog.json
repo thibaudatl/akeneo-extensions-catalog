@@ -32,6 +32,20 @@
       "description": "Create model/variant products from simple products",
       "distPath": "simple-to-variant-conversion/dist/variant-converter-v001.js",
       "originalFileName": "variant-converter-v001.js"
+    },{
+      "slug": "family-variant-updater",
+      "name": "family-variant-updater",
+      "type": "sdk_script",
+      "position": "pim.product-grid.action-bar",
+      "version": "0.0.1",
+      "defaultLabel": "Family Variant Updater",
+      "labels": {
+        "en_US": "Family Variant Updater",
+        "fr_FR": "Family Variant Updater"
+      },
+      "description": "Change model/variant products from 1 family/family variant to another",
+      "distPath": "simple-to-variant-conversion/dist/family-variant-updater.js",
+      "originalFileName": "family-variant-updater.js"
     }
   ]
 }
