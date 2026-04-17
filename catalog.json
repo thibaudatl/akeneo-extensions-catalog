@@ -34,7 +34,7 @@
       "originalFileName": "variant-converter-v001.js"
     },{
       "slug": "family-variant-updater",
-      "name": "family-variant-updater",
+      "name": "family_variant_updater",
       "type": "sdk_script",
       "position": "pim.product-grid.action-bar",
       "version": "0.0.2",
