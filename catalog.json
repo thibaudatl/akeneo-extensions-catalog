@@ -43,8 +43,8 @@
         "en_US": "Family Variant Updater",
         "fr_FR": "Family Variant Updater"
       },
-      "description": "Change model/variant products from 1 family/family variant to another",
-      "distPath": "simple-to-variant-conversion/dist/family-variant-updater.js",
+      "description": "Move models & variant products to a target family/family variant",
+      "distPath": "family-variant-updater/dist/family-variant-updater.js",
       "originalFileName": "family-variant-updater.js"
     }
   ]
