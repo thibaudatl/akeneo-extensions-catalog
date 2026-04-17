@@ -44,7 +44,7 @@
         "fr_FR": "Family Variant Updater"
       },
       "description": "Move models & variant products to a target family/family variant",
-      "distPath": "family-variant-updater/dist/family-variant-updater.js",
+      "distPath": "family-variant-updater/dist/family-variant-changer.js",
       "originalFileName": "family-variant-updater.js"
     }
   ]
