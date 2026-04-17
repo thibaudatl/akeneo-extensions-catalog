@@ -37,7 +37,7 @@
       "name": "family-variant-updater",
       "type": "sdk_script",
       "position": "pim.product-grid.action-bar",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "defaultLabel": "Family Variant Updater",
       "labels": {
         "en_US": "Family Variant Updater",
